@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83529458368",
+    "firebase_url": "https://findmyphone-f319a.firebaseio.com",
+    "project_id": "findmyphone-f319a",
+    "storage_bucket": "findmyphone-f319a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83529458368:android:92fa8fe8c77116ef",
+        "android_client_info": {
+          "package_name": "com.sarah.findmyphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83529458368-tll15342m19b7cpsdv72tknc2vb5m09f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sarah.findmyphone",
+            "certificate_hash": "cc1dc6c27450cb9d985e6095eb4c001f97a7ce1b"
+          }
+        },
+        {
+          "client_id": "83529458368-3n966t8j4079325olg01pq0bgj1cgns3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-RyDkHrHCq54XV4W23jUg3FJmPKl1KiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83529458368-3n966t8j4079325olg01pq0bgj1cgns3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
